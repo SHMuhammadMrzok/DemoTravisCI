@@ -4,3 +4,4 @@ osx_image: xcode11.3
 xcode_workspace: DemoTravisCI.xcworkspace
 xcode_scheme: DemoTravisCI
 xcode_sdk: iphonesimulator13.2
+xcode_destination: platform=iOS Simulator,OS=13.0,name=iPhone 11 Pro Max
