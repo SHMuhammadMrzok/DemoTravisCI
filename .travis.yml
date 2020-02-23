@@ -1,0 +1,6 @@
+language: objective-c
+osx_image: xcode11.3
+#xcode_project: DemoTravisCI.xcodeproj
+xcode_workspace: DemoTravisCI.xcworkspace
+xcode_scheme: DemoTravisCI
+xcode_sdk: iphonesimulator13.2
